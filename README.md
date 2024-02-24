@@ -9,7 +9,7 @@ Hello! I'm Sarugan, a passionate system developer with a strong background in co
 ## 🚀 Skills
 
 - **Programming Languages:**
-  - ![Java]([[logos/java-logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.docker.com%2Fcompany%2Fnewsroom%2Fmedia-resources%2F&psig=AOvVaw3yttURvuaG-GaPRhucw1ep&ust=1708861456560000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCz27vzw4QDFQAAAAAdAAAAABAN)](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.docker.com%2Fwp-content%2Fuploads%2F2023%2F08%2Flogo-guide-logos-1.svg&tbnid=4KN2kMesitraRM&vet=12ahUKEwiUmf2R88OEAxUaGxAIHYKpAj4QMygAegQIARBQ..i&imgrefurl=https%3A%2F%2Fwww.docker.com%2Fcompany%2Fnewsroom%2Fmedia-resources%2F&docid=qTskOJD2jFCQpM&w=800&h=534&q=docker%20logo&client=safari&ved=2ahUKEwiUmf2R88OEAxUaGxAIHYKpAj4QMygAegQIARBQ)) Java
+  - ![Java](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.docker.com%2Fcompany%2Fnewsroom%2Fmedia-resources%2F&psig=AOvVaw0NmWsXoYSxQI2vu_iauUP5&ust=1708861764296000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiF-Nuk9MOEAxVfefEDHdCcAKsQjRx6BAgAEBY) Java
   - ![JavaScript](logos/javascript-logo.png) JavaScript
   - ![Python](logos/python-logo.png) Python
 
