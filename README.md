@@ -25,6 +25,7 @@ Hello! I'm Sarugan, a passionate system developer with a strong background in co
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+<br/>
 
 ## 📚 Education
 - **Bachelor of Science in Computer Engineering**
