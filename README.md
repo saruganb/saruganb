@@ -13,27 +13,16 @@ Hello! I'm Sarugan, a passionate system developer with a strong background in co
 - **Database Management:** [Mention databases you are familiar with, e.g., MySQL, MongoDB]
 - **DevOps:** [Include any relevant DevOps tools or practices, e.g., Git, Jenkins]
 
-## 🛠️ Projects
-### [Project Name 1]
-- Brief description: [Provide a short description of the project]
-- Technologies used: [List the technologies and tools used]
-- Link to the project: [If applicable, provide a link to the GitHub repository or deployed project]
-
-### [Project Name 2]
-- Brief description: [Provide a short description of the project]
-- Technologies used: [List the technologies and tools used]
-- Link to the project: [If applicable, provide a link to the GitHub repository or deployed project]
-
 ## 📚 Education
 - **Bachelor of Science in Computer Engineering**
-  - [University Name], [Graduation Year]
+  - [Kungliga Tekniska Högskolan (Royal Institute of Technology)], [2023]
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/sarugan-balachandran/?originalSubdomain=se))
 - [GitHub](https://github.com/your-github-username)
 
 ## 📫 Contact
-- Email: your.email@example.com
+- Email: saruganb10@gmail.com
 
 ## 🌟 Acknowledgments
 I appreciate your time in checking out my profile. Let's connect and collaborate on exciting projects!
