@@ -34,7 +34,7 @@ Hello! I'm Sarugan, a passionate system developer with a strong background in co
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sarugan-balachandran/?originalSubdomain=se)
-- [GitHub]([https://github.com/your-github-username](https://github.com/saruganb))
+- [GitHub](https://github.com/saruganb)
 
 ## 📫 Contact
 - Email: saruganb10@gmail.com
